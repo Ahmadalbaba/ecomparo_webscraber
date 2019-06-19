@@ -57,7 +57,7 @@ end
 #infos_array.uniq
 puts infos_array.class
 
-#_________________
+
 
 
  
