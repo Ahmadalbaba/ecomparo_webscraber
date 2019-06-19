@@ -54,7 +54,7 @@ infos_hash["Durchgeführte Arbeit"] = agentur_info_array[8]
 infos_array << infos_hash
 end
 
-#infos_array.uniq
+
 puts infos_array.class
 
 
